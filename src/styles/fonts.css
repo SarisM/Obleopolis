@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Mochiy+Pop+P+One&display=swap');
+
+/* Jetsy Trial font - Using a similar playful display font as fallback */
+@font-face {
+  font-family: 'Jetsy Trial:Regular';
+  src: local('Poppins ExtraBold'), local('Poppins-ExtraBold');
+  font-weight: 800;
+  font-style: normal;
+}
